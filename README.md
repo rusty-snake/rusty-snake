@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 ### My own projects
 
  - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
+ - 🦊 [FFX](https://gitlab.com/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
+ - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - 🌟 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
+ - 🦊 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
+ - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
  - 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
- - <img height="16" width="16" src="https://simpleicons.org/icons/gitlab.svg" /> [FFX](https://gitlab.com/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
- - <img height="16" width="16" src="https://simpleicons.org/icons/gitlab.svg" /> [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
- - <img height="16" width="16" src="https://simpleicons.org/icons/gitlab.svg" /> [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
- - <img height="16" width="16" src="https://simpleicons.org/icons/gitlab.svg" /> [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
 
 ### Projects I frequently contribute to
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 🔱 This is a fork of an other project.  
 🛑 This project is archived.  
 🌟 This is a awesome project, have a look at it!  
-<img height="16" width="16" src="https://simpleicons.org/icons/gitlab.svg" /> This project is hosted on GitLab.
+🦊 This project is hosted on GitLab.
