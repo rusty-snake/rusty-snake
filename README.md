@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - 🌟 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
+ - 🦊 [kyst](https://gitlab.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - 🦊 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
