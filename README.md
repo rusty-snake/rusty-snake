@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 🔱 This is a fork of an other project.  
 🛑 This project is archived.   
-🦊 This project is hosted on GitLab.
-🐙 This project is hosted on GitHub.
+🦊 This project is hosted on GitLab.  
+🐙 This project is hosted on GitHub.  
