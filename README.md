@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 
 ### My own projects
 
- - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
+ - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
  - 🦊 [FFX](https://gitlab.com/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
- - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
+ - 🐙 [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
- - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
- - 🌟 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
+ - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
+ - 🐙 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - 🦊 [kyst](https://gitlab.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - 🦊 [NewsBear](https://gitlab.com/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
- - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
+ - 🐙 [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
  - 🦊 [Rust Cookbook](https://gitlab.com/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
  - 🦊 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
- - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
+ - 🐙 [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
- - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
- - 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
- - 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
+ - 🐙 [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
+ - 🐙 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
+ - 🐙 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
 
 ### Projects I frequently contribute to
 
@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 
 🔱 This is a fork of an other project.  
-🛑 This project is archived.  
-🌟 This is a awesome project, have a look at it!  
+🛑 This project is archived.   
 🦊 This project is hosted on GitLab.
+🐙 This project is hosted on GitHub.
