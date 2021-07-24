@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  - 🐙 [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
+ - 🐙 [firejail.list](https://github.com/rusty-snake/firejail.list) &ndash; An incomplete list of projects that use or complement firejail.
  - 🐙 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - 🦊 [kyst](https://gitlab.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - 🦊 [NewsBear](https://gitlab.com/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
