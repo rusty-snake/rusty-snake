@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - 🐙 [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
  - 🐙 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
+ - 🐙 🛑 [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
  - 🐙 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
 
 ### Projects I frequently contribute to
