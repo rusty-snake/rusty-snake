@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  - 🦊 [kyst](https://gitlab.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - 🦊 [NewsBear](https://gitlab.com/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - 🐙 [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
- - 🦊 [Rust Cookbook](https://gitlab.com/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
+ - ⛰️ [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
  - 🦊 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
  - 🐙 [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
@@ -54,5 +54,6 @@ Here are some ideas to get you started:
 
 🔱 This is a fork of an other project.  
 🛑 This project is archived.   
+⛰️ This project is hosted on Codeberg.  
 🦊 This project is hosted on GitLab.  
 🐙 This project is hosted on GitHub.  
