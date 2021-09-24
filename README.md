@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
  - 🐙 [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
- - 🦊 [FFX](https://gitlab.com/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
+ - ⛰️ [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - 🐙 [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - ⛰️ [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
