@@ -28,13 +28,13 @@ Here are some ideas to get you started:
  - ⛰️ [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - 🐙 [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
  - ⛰️ [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
- - 🦊 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
  - 🐙 [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - 🐙 [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
  - 🐙 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
  - 🐙 🛑 [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
  - 🐙 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
+ - 🦊 🛑 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
 
 ### Projects I frequently contribute to
 
