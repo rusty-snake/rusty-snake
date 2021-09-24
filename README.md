@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - 🐙 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
- - 🦊 [kyst](https://gitlab.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
+ - 🐙 [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - ⛰️ [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - 🐙 [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
  - ⛰️ [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
