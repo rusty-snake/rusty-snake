@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  - 🐙 [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
  - 🦊 [FFX](https://gitlab.com/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - 🐙 [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
- - 🦊 [Firefox Config](https://gitlab.com/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
+ - ⛰️ [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - 🐙 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - 🐙 [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
