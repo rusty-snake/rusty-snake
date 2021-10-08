@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Projects
+
 ### My own projects
 
  - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
@@ -57,3 +59,11 @@ Here are some ideas to get you started:
 ⛰️ This project is hosted on Codeberg.  
 🦊 This project is hosted on GitLab.  
 🐙 This project is hosted on GitHub.  
+
+## Visitor Count
+
+<p align="center">
+ <img src="https://profile-counter.glitch.me/rusty-snake/count.svg" alt="Visitor Count" />
+ <br>
+ <sub><a href="https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g">Want to add a count to your profile?</a></sub>
+</p>
