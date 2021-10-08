@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
+ <br>
+ <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
+</p>
+
 ## Projects
 
 ### My own projects
@@ -59,14 +67,6 @@ Here are some ideas to get you started:
 ⛰️ This project is hosted on Codeberg.  
 🦊 This project is hosted on GitLab.  
 🐙 This project is hosted on GitHub.  
-
-## Stats
-
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
- <br>
- <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
-</p>
 
 ## Visitor Count
 
