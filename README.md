@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## Stats
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite" />
  <br>
  <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
 </p>
