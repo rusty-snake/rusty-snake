@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
+## Stats and Trophies
 
 <p>
  <img align="top" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
  <img align="top" width="350" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite" />
  <br>
  <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
+</p>
+
+<p>
+ <img align="top" width="685" height="225" src="https://github-profile-trophy.vercel.app/?username=rusty-snake&margin-h=5&margin-w=5" />
+ <br>
+ <sub><a href="https://github.com/ryo-ma/github-profile-trophy">Want to add trophies to your profile?</a></sub>
 </p>
 
 ## Projects
