@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 ### Notable gists
 
  - [maintenance-status.md](https://gist.github.com/rusty-snake/574a91f1df9f97ec77ca308d6d731e29) &ndash; Proposal to easily show the maintenance status of a project.
- - [noprofile.profile](https://gist.github.com/rusty-snake/bb234cb3e50e1e4e7429f29a7931cc72) &ndash; A firejail profile which is weaker then --noprofile. Only for debugging purpose.
  - [xdg-open.c](https://gist.github.com/rusty-snake/5104dc53ce3e52eef86cc34d359aa10e) &ndash; A xdg-open drop-in wrapper to make xdg-open work nicely with firejail.
 
 
