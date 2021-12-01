@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### My own projects
 
- - ⛰️ [adventofcode](https://codeberg.org/rusty-snake/adventofcode) &ndash; Advent of Code (2021)
+ - ⛰️ [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code (2021)
  - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
  - 🐙 [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
  - ⛰️ [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
