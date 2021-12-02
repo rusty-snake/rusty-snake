@@ -67,6 +67,7 @@ Here are some ideas to get you started:
  - [fdns](https://github.com/netblue30/fdns) &ndash; Firejail DNS-over-HTTPS Proxy Server
  - [firejail](https://github.com/netblue30/firejail) &ndash; Linux namespaces and seccomp-bpf sandbox
  - [libaslrmalloc](https://github.com/topimiettinen/libaslrmalloc) &ndash; LD_PRELOADed library to randomize malloc and friends.
+ - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) &ndash; Native Rust crate for libseccomp library
     
 ### Notable gists
 
