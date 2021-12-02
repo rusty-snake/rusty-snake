@@ -70,6 +70,7 @@ Here are some ideas to get you started:
     
 ### Notable gists
 
+ - [cu2ub.py](https://gist.github.com/rusty-snake/a82ffae09e820e053ac486694af777c3) &ndash; ClearURLs to µBlock origin converter
  - [maintenance-status.md](https://gist.github.com/rusty-snake/574a91f1df9f97ec77ca308d6d731e29) &ndash; Proposal to easily show the maintenance status of a project.
  - [xdg-open.c](https://gist.github.com/rusty-snake/5104dc53ce3e52eef86cc34d359aa10e) &ndash; A xdg-open drop-in wrapper to make xdg-open work nicely with firejail.
 
