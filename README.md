@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## Metrics
+
+<p align="top">
+ <img src="https://metrics.lecoq.io/rusty-snake?template=classic&lines=1&notable=1&achievements=1&activity=1&followup=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=UTC" alt="Metrics" />
+ <br>
+ <sub><a href="https://metrics.lecoq.io/">Want to add metrics to your profile?</a></sub>
+</p>
+
 ## Stats and Trophies
 
 <p>
