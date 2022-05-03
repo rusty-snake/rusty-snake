@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
  - ⛰️ [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code (2021)
  - ⛰️ [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
+ - ⛰️ [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
  - ⛰️ [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
  - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
  - 🐙 [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
