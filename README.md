@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!---
 ## Metrics
 
 <p>
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  <br>
  <sub><a href="https://metrics.lecoq.io/">Want to add metrics to your profile?</a></sub>
 </p>
+--->
 
 ## Stats and Trophies
 
