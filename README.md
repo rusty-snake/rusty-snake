@@ -50,31 +50,31 @@ Here are some ideas to get you started:
 
 ### My own projects
 
- - ⛰️ [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code (2021)
- - ⛰️ [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
- - ⛰️ [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
- - ⛰️ [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
- - 🐙 [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
- - 🐙 [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
- - ⛰️ [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
- - 🐙 [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
- - ⛰️ [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
- - 🐙 [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
- - 🐙 [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash; 
- - 🐙 [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
- - 🐙 [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
- - 🐙 [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
- - ⛰️ [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
- - ⛰️ [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
- - 🐙 [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
- - ⛰️ [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
- - 🐙 [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
- - 🦊 [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
- - 🐙 [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
- - 🐙 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
- - 🐙 🛑 [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
- - 🐙 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
- - 🦊 🛑 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
+ - [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code (2021)
+ - [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
+ - [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
+ - [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
+ - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
+ - [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
+ - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
+ - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
+ - [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
+ - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
+ - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash; 
+ - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
+ - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
+ - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
+ - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
+ - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
+ - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
+ - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
+ - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
+ - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
+ - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
+ - 🔱 [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
+ - 🛑 [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
+ - 🛑 [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
+ - 🛑 [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
 
 ### Projects I frequently contribute to
 
@@ -93,12 +93,8 @@ Here are some ideas to get you started:
 
 * * * * *
 
-
 🔱 This is a fork of an other project.  
 🛑 This project is archived.   
-⛰️ This project is hosted on Codeberg.  
-🦊 This project is hosted on GitLab.  
-🐙 This project is hosted on GitHub.  
 
 ## Visitor Count
 
