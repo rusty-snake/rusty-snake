@@ -94,7 +94,37 @@ Here are some ideas to get you started:
 * * * * *
 
 🔱 This is a fork of an other project.  
-🛑 This project is archived.   
+🛑 This project is archived.  
+
+<!--
+
+https://wiki.archlinux.org/title/firejail#Experimental_improved_tools:
+> Some of the Firejail developers recognized issues with the tools it ships with
+> and made their own, improved versions of them.
+>  * [firecfg.py](https://github.com/rusty-snake/firecfg.py), an improved version of firecfg.
+>  * [fjp](https://github.com/rusty-snake/fjp), a tool to interact with Firejail profiles.
+
+https://firejail.wordpress.com/#external-projects:
+> * [HOWTO: Firejailed Tor Browser](https://github.com/rusty-snake/firejailed-tor-browser)
+> * [fjp](https://rusty-snake.github.io/fjp) is a handy command line program to
+>   work fast and straightforward with firejail profiles.
+
+https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt:
+> The developers would like to thank https://github.com/rusty-snake for helping create this list
+
+https://www.privacyguides.org/linux-desktop/sandboxing/#flatpak:
+> You can restrict applications further by issuing
+> [Flatpak overrides](https://docs.flatpak.org/en/latest/flatpak-command-reference.html#flatpak-override).
+> This can be done with the command-line or by using [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
+> Some sample overrides are provided by [tommytran732](https://github.com/tommytran732/Flatpak-Overrides)
+> and [rusty-snake](https://github.com/rusty-snake/kyst/tree/main/flatpak).
+
+https://blogs.gnome.org/tchx84/2022/05/31/flatseal-1-8-0/:
+> Last but not least, special kudos to [@rusty-snake](https://github.com/rusty-snake)
+> for always keeping an eye on newly opened issues and patiently responding to
+> people’s doubts.
+
+-->
 
 ## Visitor Count
 
