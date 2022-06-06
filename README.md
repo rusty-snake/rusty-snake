@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 <details><summary>Stats and Trophies (click to expand)</summary>
 
 <p>
+ 
+ > Note that only contributions on GitHub are counted here.
+ > No contributions on Codeberg and no commits with an unverified email address.
+
+</p>
+ 
+<p>
  <img align="top" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
  <img align="top" width="350" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite" />
  <br>
