@@ -81,6 +81,7 @@ Here are some ideas to get you started:
  - [arkenfox user.js](https://github.com/arkenfox/user.js) &ndash; Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
  - [fdns](https://github.com/netblue30/fdns) &ndash; Firejail DNS-over-HTTPS Proxy Server
  - [firejail](https://github.com/netblue30/firejail) &ndash; Linux namespaces and seccomp-bpf sandbox
+ - [Flatseal](https://github.com/tchx84/Flatseal) &ndash;  Manage Flatpak permissions 
  - [libaslrmalloc](https://github.com/topimiettinen/libaslrmalloc) &ndash; LD_PRELOADed library to randomize malloc and friends.
  - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) &ndash; Native Rust crate for libseccomp library
     
