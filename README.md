@@ -37,16 +37,8 @@ Here are some ideas to get you started:
 </p>
  
 <p>
- <picture align="top" width="495" height="195">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite">
- </picture>
- <picture align="top" width="350" height="165">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite">
- </picture>
+ <img align="top" width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=rusty-snake&include_all_commits=true&show_icons=true&theme=graywhite" />
+ <img align="top" width="350" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-snake&layout=compact&theme=graywhite" />
  <br>
  <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
 </p>
