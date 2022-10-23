@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a hobbyist programmer/security researcher who is mainly interested in Linux.
+
 <!---
 ## Metrics
 
