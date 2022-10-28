@@ -75,6 +75,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
  - [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
  - [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
+ - [ddiceware](https://codeberg.org/rusty-snake/ddiceware) &ndash; diceware passphrase generator.
  - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
  - [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
  - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
