@@ -71,7 +71,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
 
 ### My own projects
 
- - [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code (2021)
+ - [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code
  - [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
  - [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
  - [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
