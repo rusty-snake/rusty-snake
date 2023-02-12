@@ -87,13 +87,13 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
  - [fireurl](https://github.com/rusty-snake/fireurl) &ndash;  Fixing the firejail URL open issue.
  - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
- - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
  - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
- - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
+ - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages. [ARCHIVED]
+ - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets. [ARCHIVED]
  - [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI [ARCHIVED]
  - [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC [ARCHIVED]
  - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot [ARCHIVED]
