@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 I am a hobbyist programmer/security researcher who is mainly interested in Linux.
 
-<!---
 ## Metrics
 
 <p>
- <img width="480" height="1770" src="https://metrics.lecoq.io/rusty-snake?template=classic&lines=1&notable=1&achievements=1&followup=1&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=UTC" alt="Metrics" />
+ <img width="480" height="1991" src="https://metrics.lecoq.io/rusty-snake?template=classic&isocalendar=1&languages=1&discussions=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=UTC" alt="Metrics" />
  <br>
  <sub><a href="https://metrics.lecoq.io/">Want to add metrics to your profile?</a></sub>
 </p>
---->
 
 ## Stats and Trophies
 
