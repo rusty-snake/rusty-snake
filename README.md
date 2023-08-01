@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I am a hobbyist programmer/security researcher who is mainly interested in Linux.
 
+<!-- Has UI bugs
 ## Metrics
 
 <p>
@@ -24,6 +25,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  <br>
  <sub><a href="https://metrics.lecoq.io/">Want to add metrics to your profile?</a></sub>
 </p>
+-->
 
 ## Stats and Trophies
 
