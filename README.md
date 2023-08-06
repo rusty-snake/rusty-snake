@@ -103,6 +103,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
 
  - [Flatseal](https://github.com/tchx84/Flatseal) &ndash;  Manage Flatpak permissions
  - [arkenfox user.js](https://github.com/arkenfox/user.js) &ndash; Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+ - [bubblejail](https://github.com/igo95862/bubblejail) &ndash; Bubblewrap based sandboxing for desktop applications
  - [firejail](https://github.com/netblue30/firejail) &ndash; Linux namespaces and seccomp-bpf sandbox
  - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) &ndash; Native Rust crate for libseccomp library
     
