@@ -71,7 +71,6 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
 
 ### My own projects
 
- - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - [advent-of-code](https://codeberg.org/rusty-snake/advent-of-code) &ndash; Advent of Code
  - [crabjail](https://codeberg.org/crabjail) &ndash; Linux sandboxing tool
  - [crablock](https://codeberg.org/crabjail/crablock) &ndash; Yet another Linux sandboxing tool.
@@ -81,7 +80,6 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
- - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash; 
  - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - [fireurl](https://github.com/rusty-snake/fireurl) &ndash;  Fixing the firejail URL open issue.
  - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
@@ -98,6 +96,8 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot [ARCHIVED]
  - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages. [ARCHIVED]
  - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics. [ARCHIVED]
+ - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt. [ARCHIVED]
+ - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;  [ARCHIVED]
 
 ### Projects I frequently contribute to
 
