@@ -71,6 +71,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [getenvtrace](https://codeberg.org/rusty-snake/getenvtrace) &ndash;  Simple LD_PRELOAD library to trace calls to `getenv(3)`.
  - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - [smem](https://codeberg.org/rusty-snake/smem) &ndash; Show top 10 memory consuming processes.
+ - [SCEE-custom-overlays](https://github.com/rusty-snake/SCEE-custom-overlays) &ndash; A collection of custom overlays for SCEE
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
