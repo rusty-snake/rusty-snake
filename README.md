@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**rusty-snake/rusty-snake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am a hobbyist programmer/security researcher who is mainly interested in Linux.
 
 <!-- Has UI bugs
@@ -77,28 +62,34 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
  - [ddiceware](https://codeberg.org/rusty-snake/ddiceware) &ndash; diceware passphrase generator.
  - [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
- - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
  - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
  - [fireurl](https://github.com/rusty-snake/fireurl) &ndash;  Fixing the firejail URL open issue.
  - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
+ - [flatpak-device-mounter](https://codeberg.org/crabjail/flatpak-device-mounter) &ndash;  Workaround for flatpaks limited device permissions.
+ - [getenvtrace](https://codeberg.org/rusty-snake/getenvtrace) &ndash;  Simple LD_PRELOAD library to trace calls to `getenv(3)`.
  - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - [smem](https://codeberg.org/rusty-snake/smem) &ndash; Show top 10 memory consuming processes.
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
  - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
- - [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI [ARCHIVED]
- - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets. [ARCHIVED]
- - [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation. [ARCHIVED]
- - [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC [ARCHIVED]
- - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns. [ARCHIVED]
- - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer. [ARCHIVED]
- - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot [ARCHIVED]
- - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages. [ARCHIVED]
- - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics. [ARCHIVED]
- - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt. [ARCHIVED]
- - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;  [ARCHIVED]
+
+#### ARCHIVED
+
+ - [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
+ - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
+ - [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
+ - [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
+ - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
+ - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
+ - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
+ - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
+ - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
+ - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
+ - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;
+ - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
+ - [ns-utils](https://codeberg.org/crabjail/ns-util) &ndash;  Simple Linux namespaces debugging util
 
 ### Projects I frequently contribute to
 
@@ -110,6 +101,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
     
 ### Notable gists
 
+ - [seccomp-bpf based MDWE bypass](https://gist.github.com/rusty-snake/481ad71892fb587a6056326686e55bf7) &ndash; Bypass seccomp-bpf based memory-deny-write-execute with `READ_IMPLIES_EXEC`.
  - [cu2ub.py](https://gist.github.com/rusty-snake/a82ffae09e820e053ac486694af777c3) &ndash; ClearURLs to µBlock origin converter
  - [maintenance-status.md](https://gist.github.com/rusty-snake/574a91f1df9f97ec77ca308d6d731e29) &ndash; Proposal to easily show the maintenance status of a project.
  - [xdg-open.c](https://gist.github.com/rusty-snake/5104dc53ce3e52eef86cc34d359aa10e) &ndash; A xdg-open drop-in wrapper to make xdg-open work nicely with firejail.
