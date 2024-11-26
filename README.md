@@ -73,7 +73,6 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [smem](https://codeberg.org/rusty-snake/smem) &ndash; Show top 10 memory consuming processes.
  - [SCEE-custom-overlays](https://github.com/rusty-snake/SCEE-custom-overlays) &ndash; A collection of custom overlays for SCEE
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
- - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
  - [zufall](https://github.com/rusty-snake/zufall) &ndash; Zufall, a tool to help on decisions.
 
 #### ARCHIVED
@@ -91,6 +90,7 @@ I am a hobbyist programmer/security researcher who is mainly interested in Linux
  - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;
  - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - [ns-utils](https://codeberg.org/crabjail/ns-util) &ndash;  Simple Linux namespaces debugging util
+ - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
 
 ### Projects I frequently contribute to
 
