@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a hobbyist programmer/security researcher who is mainly interested in Linux.
+I am a programmer/security researcher who is mainly interested in Linux.
 
 <!-- Has UI bugs
 ## Metrics
