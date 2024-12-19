@@ -38,11 +38,13 @@ I am a programmer/security researcher who is mainly interested in Linux.
  <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
 </p>
 
+<!-- Domain has changed; no interest streak stats
 <p>
  <img align="top" width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rusty-snake" />
  <br>
  <sub><a href="https://github.com/denvercoder1/github-readme-streak-stats">Want to add streak stats to your profile?</a></sub>
 </p>
+-->
 
 <p>
  <img align="top" width="685" height="225" src="https://github-profile-trophy.vercel.app/?username=rusty-snake&margin-h=5&margin-w=5" />
