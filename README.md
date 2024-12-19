@@ -18,8 +18,7 @@ I am a programmer/security researcher who is mainly interested in Linux.
 
 <p>
  
- > Note that only contributions on GitHub are counted here.
- > No contributions on Codeberg and no commits with an unverified email address.
+*Note that only contributions on GitHub are counted here. No contributions on Codeberg and no commits with an unverified email address.*
 
 </p>
  
