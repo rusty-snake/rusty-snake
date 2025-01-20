@@ -70,6 +70,7 @@ I am a programmer/security researcher who is mainly interested in Linux.
  - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - [flatpak-device-mounter](https://codeberg.org/crabjail/flatpak-device-mounter) &ndash;  Workaround for flatpaks limited device permissions.
  - [getenvtrace](https://codeberg.org/rusty-snake/getenvtrace) &ndash;  Simple LD_PRELOAD library to trace calls to `getenv(3)`.
+ - [guides](https://codeberg.org/rusty-snake/guides) &ndash;
  - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
  - [manual-for-esoteric-it-security](https://github.com/rusty-snake/manual-for-esoteric-it-security) &ndash; Manual for esoteric it security
  - [smem](https://codeberg.org/rusty-snake/smem) &ndash; Show top 10 memory consuming processes.
