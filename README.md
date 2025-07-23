@@ -142,6 +142,7 @@ https://blogs.gnome.org/tchx84/2022/05/31/flatseal-1-8-0/:
 
 -->
 
+<!-- Discontinued
 ## Visitor Count
 
 <p align="center">
@@ -149,3 +150,4 @@ https://blogs.gnome.org/tchx84/2022/05/31/flatseal-1-8-0/:
  <br>
  <sub><a href="https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g">Want to add a count to your profile?</a></sub>
 </p>
+-->
