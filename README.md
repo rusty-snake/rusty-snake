@@ -2,6 +2,17 @@
 
 I am a programmer/security researcher who is mainly interested in Linux.
 
+<p>
+ The most of my active projects are now on<br>
+ <a href="https://codeberg.org/rusty-snake">
+   <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/horizontal/svg/codeberg-logo_horizontal_blue.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/horizontal/svg/codeberg-logo_horizontal_white.svg">
+    <img width="280" height="82.5" src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/horizontal/svg/codeberg-logo_horizontal_blue.svg" alt="Codeberg">
+   </picture>
+ </a>
+</p>
+
 <!-- Has UI bugs
 ## Metrics
 
