@@ -13,16 +13,6 @@ I am a programmer/security researcher who is mainly interested in Linux.
  </a>
 </p>
 
-<!-- Has UI bugs
-## Metrics
-
-<p>
- <img width="480" height="1991" src="https://metrics.lecoq.io/rusty-snake?template=classic&isocalendar=1&languages=1&discussions=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=UTC" alt="Metrics" />
- <br>
- <sub><a href="https://metrics.lecoq.io/">Want to add metrics to your profile?</a></sub>
-</p>
--->
-
 ## Stats and Trophies
 
 <details><summary>Stats and Trophies (click to expand)</summary>
@@ -48,21 +38,13 @@ I am a programmer/security researcher who is mainly interested in Linux.
  <sub><a href="https://github.com/anuraghazra/github-readme-stats">Want to add stats to your profile?</a></sub>
 </p>
 
-<!-- Domain has changed; no interest streak stats
-<p>
- <img align="top" width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rusty-snake" />
- <br>
- <sub><a href="https://github.com/denvercoder1/github-readme-streak-stats">Want to add streak stats to your profile?</a></sub>
-</p>
--->
-
 <p>
  <img align="top" width="685" height="225" src="https://github-profile-trophy.vercel.app/?username=rusty-snake&margin-h=5&margin-w=5" />
  <br>
  <sub><a href="https://github.com/ryo-ma/github-profile-trophy">Want to add trophies to your profile?</a></sub>
 </p>
  
- </details>
+</details>
 
 ## Projects
 
@@ -122,43 +104,3 @@ I am a programmer/security researcher who is mainly interested in Linux.
  - [seccomp_init_btree.rs](https://gist.github.com/rusty-snake/0f10950f05e7ea71b3788d6a515ee894) &ndash; LD_PRELOAD library to change the default optimization level of libseccomp to build btree optimized filters.
  - [seccomp_load_debug.rs](https://gist.github.com/rusty-snake/09a25a8568ad7c626d55f050ec556c7d) &ndash; LD_PRELOAD library to export the seccomp-bpf filter when it is loaded.
  - [xdg-open.c](https://gist.github.com/rusty-snake/5104dc53ce3e52eef86cc34d359aa10e) &ndash; A xdg-open drop-in wrapper to make xdg-open work nicely with firejail.
-
-<!--
-
-https://wiki.archlinux.org/title/firejail#Experimental_improved_tools:
-> Some of the Firejail developers recognized issues with the tools it ships with
-> and made their own, improved versions of them.
->  * [firecfg.py](https://github.com/rusty-snake/firecfg.py), an improved version of firecfg.
->  * [fjp](https://github.com/rusty-snake/fjp), a tool to interact with Firejail profiles.
-
-https://firejail.wordpress.com/#external-projects:
-> * [HOWTO: Firejailed Tor Browser](https://github.com/rusty-snake/firejailed-tor-browser)
-> * [fjp](https://rusty-snake.github.io/fjp) is a handy command line program to
->   work fast and straightforward with firejail profiles.
-
-https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt:
-> The developers would like to thank https://github.com/rusty-snake for helping create this list
-
-https://www.privacyguides.org/linux-desktop/sandboxing/#flatpak:
-> You can restrict applications further by issuing
-> [Flatpak overrides](https://docs.flatpak.org/en/latest/flatpak-command-reference.html#flatpak-override).
-> This can be done with the command-line or by using [Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
-> Some sample overrides are provided by [tommytran732](https://github.com/tommytran732/Flatpak-Overrides)
-> and [rusty-snake](https://github.com/rusty-snake/kyst/tree/main/flatpak).
-
-https://blogs.gnome.org/tchx84/2022/05/31/flatseal-1-8-0/:
-> Last but not least, special kudos to [@rusty-snake](https://github.com/rusty-snake)
-> for always keeping an eye on newly opened issues and patiently responding to
-> people’s doubts.
-
--->
-
-<!-- Discontinued
-## Visitor Count
-
-<p align="center">
- <img src="https://profile-counter.glitch.me/rusty-snake/count.svg" alt="Visitor Count" />
- <br>
- <sub><a href="https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g">Want to add a count to your profile?</a></sub>
-</p>
--->
