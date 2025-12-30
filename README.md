@@ -56,11 +56,7 @@ I am a programmer/security researcher who is mainly interested in Linux.
  - [crabsecco](https://codeberg.org/crabjail/crabsecco) &ndash; crabjail seccomp compiler
  - [ddiceware](https://codeberg.org/rusty-snake/ddiceware) &ndash; diceware passphrase generator.
  - [fedora-extras](https://github.com/rusty-snake/fedora-extras) &ndash; Additional package for Fedora, missing in the offical repositories and RPMFusion.
- - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
  - [firefox-config](https://codeberg.org/rusty-snake/firefox-config) &ndash; My config for a hardened, secure, privacy friendly firefox.
- - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
- - [fireurl](https://github.com/rusty-snake/fireurl) &ndash;  Fixing the firejail URL open issue.
- - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - [flatpak-device-mounter](https://codeberg.org/crabjail/flatpak-device-mounter) &ndash;  Workaround for flatpaks limited device permissions.
  - [getenvtrace](https://codeberg.org/rusty-snake/getenvtrace) &ndash;  Simple LD_PRELOAD library to trace calls to `getenv(3)`.
  - [guides](https://codeberg.org/rusty-snake/guides) &ndash;
@@ -74,18 +70,22 @@ I am a programmer/security researcher who is mainly interested in Linux.
 #### ARCHIVED
 
  - [GDriveDL](https://github.com/rusty-snake/gdrivedl) &ndash; Google Drive Download Python Script with zenity GUI
+ - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
  - [Rust Cookbook](https://codeberg.org/rusty-snake/rust-cookbook) &ndash; My rust cookbook, a list of good, useful crates (with thoughts and comments) + boilerplate snippets.
  - [Secure Linux Workstation](https://gitlab.com/rusty-snake/secure-linux-workstation) &ndash; References to harden a Linux Workstation.
  - [detect-kpxc-browser](https://github.com/rusty-snake/detect-kpxc-browser) &ndash; Detect KPXC-Browser PoC
  - [fdns4users](https://github.com/rusty-snake/fdns4users) &ndash; Allow unprivileged users to start fdns.
+ - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
+ - [firecfg.py](https://github.com/rusty-snake/firecfg.py) &ndash; An improved firecfg written in python.
+ - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;
+ - [firejailed-tor-browser](https://github.com/rusty-snake/firejailed-tor-browser) &ndash; HOWTO: Firejailed Tor Browser
+ - [fireurl](https://github.com/rusty-snake/fireurl) &ndash;  Fixing the firejail URL open issue.
+ - [fjp](https://github.com/rusty-snake/fjp) &ndash; A handy command line program to work fast and straightforward with firejail profiles.
  - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
  - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
  - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
- - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
- - [NewsBear](https://codeberg.org/rusty-snake/NewsBear) &ndash; Ein Skript, das tagesschau.de auf Eilmeldungen überwacht und den Benutzer mittels nativer Benachrichtigungen benachrichtigt, wenn es eine neu Eilmeldung gibt.
- - [firejail-profile-builder](https://github.com/rusty-snake/firejail-profile-builder) &ndash;
- - [ffx](https://codeberg.org/rusty-snake/ffx) &ndash; Install all firefox release channels and use firejail to sandbox them.
  - [ns-utils](https://codeberg.org/crabjail/ns-util) &ndash;  Simple Linux namespaces debugging util
+ - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
  - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
 
 ### Projects I frequently contribute to
