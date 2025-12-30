@@ -61,7 +61,6 @@ I am a programmer/security researcher who is mainly interested in Linux.
  - [getenvtrace](https://codeberg.org/rusty-snake/getenvtrace) &ndash;  Simple LD_PRELOAD library to trace calls to `getenv(3)`.
  - [guides](https://codeberg.org/rusty-snake/guides) &ndash;
  - [kyst](https://github.com/rusty-snake/kyst/) &ndash; Keep Your Sandbox Tight! – Actually just a collection of my own tight sandbox configurations.
- - [manual-for-esoteric-it-security](https://github.com/rusty-snake/manual-for-esoteric-it-security) &ndash; Manual for esoteric it security
  - [smem](https://codeberg.org/rusty-snake/smem) &ndash; Show top 10 memory consuming processes.
  - [SCEE-custom-overlays](https://github.com/rusty-snake/SCEE-custom-overlays) &ndash; A collection of custom overlays for SCEE
  - [tricks](https://github.com/rusty-snake/tricks) &ndash; Collection of useful commands and configs.
@@ -84,6 +83,7 @@ I am a programmer/security researcher who is mainly interested in Linux.
  - [fstracer](https://github.com/rusty-snake/fstracer) &ndash; A filesystem-tracer.
  - [hexbot](https://github.com/rusty-snake/hexbot) &ndash; My solution for: https://noopschallenge.com/challenges/hexbot
  - [language-race](https://codeberg.org/rusty-snake/language-race) &ndash; Comparison of the speed of different programming languages.
+ - [manual-for-esoteric-it-security](https://github.com/rusty-snake/manual-for-esoteric-it-security) &ndash; Manual for esoteric it security
  - [ns-utils](https://codeberg.org/crabjail/ns-util) &ndash;  Simple Linux namespaces debugging util
  - [raudit](https://github.com/rusty-snake/raudit) &ndash; A configurable audit program for firejail-sandboxes with metrics.
  - [uhb2dnsmasq](https://gitlab.com/rusty-snake/uhb2dnsmasq) &ndash; Download the Ultimative.Hosts.Blacklist and convert it into a dnsmasq configuration.
